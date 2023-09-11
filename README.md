@@ -1,6 +1,6 @@
 # Bonino - Vença as Suas Metas!
 
- Primeiro repositório da Startup.
+Primeiro repositório da Startup.
 
 Repositório criado para o Ava3 da aula de Desenvolvimento com DevOps.
 
