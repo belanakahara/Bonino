@@ -26,8 +26,12 @@ Link do vídeo sobre a Startup (Extensão VI)
 Planfeto utilizado
 
 <div align="center">
-<img src="https://github.com/belanakahara/Bonino/assets/144569300/3a1dea89-c704-484c-b043-a023359a9334.png" width="200px" />
+<img src="https://github.com/belanakahara/Bonino/assets/144569300/e2ae0bb7-4635-4a58-a361-e45026dd4f0c.png" width="200px" />
+  <img src="https://github.com/belanakahara/Bonino/assets/144569300/3a1dea89-c704-484c-b043-a023359a9334.png" width="200px" />
 </div>
+
+
+
 
 
 # Autor
